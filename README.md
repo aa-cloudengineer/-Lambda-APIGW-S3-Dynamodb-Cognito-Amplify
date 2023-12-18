@@ -3,6 +3,7 @@ The application architecture using the  following AWS  services (Lambda,api-gw,S
 
 ![image](https://github.com/aa-cloudengineer/-Lambda-APIGW-S3-Dynamodb-Cognito-Amplify/assets/144057103/c8b32926-7b31-41b7-bd1c-b9fd7bc73001)
 
-(https://github.com/julien-muke/wildrydes)
+(https://github.com/julien-muke/wildrydes).
+
 https://webapp.serverlessworkshops.io/0-introduction/
 
